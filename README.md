@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Clare (@clarecsul), a statistician at the CSO
-- 👀 I’m interested in data visualisation, it's all about the pretty pictures
+- 👀 I’m interested in data visualisation, it's all about the pretty pictures, pictures that tell a story
 - 🌱 I’m currently learning how to make better pretty pictures, based on data, of course!
 
 <!---
